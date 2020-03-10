@@ -8,3 +8,8 @@
   3. Run file gui.py by terminal 
    + python3.6 gui.py
   
+
+
+# Reference
+ 
+ https://data-flair.training/blogs/python-project-traffic-signs-recognition/
